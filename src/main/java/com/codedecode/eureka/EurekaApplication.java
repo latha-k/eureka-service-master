@@ -11,6 +11,7 @@ public class EurekaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaApplication.class, args);
 		System.out.println("within EUREKA SERVICE");
+		System.out.println("within EUREKA SERVICE2");
 
 
 	}
