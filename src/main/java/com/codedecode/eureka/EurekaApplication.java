@@ -14,6 +14,7 @@ public class EurekaApplication {
 		System.out.println("within EUREKA SERVICE1");
 		System.out.println("within EUREKA SERVICE2");
 		System.out.println("within EUREKA SERVICE3");
+		System.out.println("within EUREKA SERVICE4");
 
 
 	}
